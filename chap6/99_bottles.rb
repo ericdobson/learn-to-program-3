@@ -1,4 +1,6 @@
-# I got greedy and didn't commit a solid working version before I tried to get fancy.
+puts "I got greedy and didn't commit a solid working version before I tried to get fancy."
+puts "See chap6/99_bottles.rb"
+exit
 
 bot_qty = 3
 bot_lbl = bot_qty
